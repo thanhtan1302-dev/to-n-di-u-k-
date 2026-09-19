@@ -26,6 +26,12 @@ export interface StudentProfile {
   arenaWins: number;
   arenaLosses: number;
   accuracyRate: number; // percentage e.g. 92
+  school?: string;
+  totalScore?: number;
+  academicLevel?: 'Xuất sắc' | 'Giỏi' | 'Khá' | 'Trung bình' | 'Yếu';
+  learningTrend?: 'Tăng' | 'Ổn định' | 'Giảm';
+  weakTopics?: string[];
+  role?: 'student' | 'teacher';
 }
 
 export interface Badge {

@@ -1,12 +1,14 @@
 import React from 'react';
 import { StudentProfile, GradeLevel } from '../types';
-import { Sparkles, Flame, Gem, Heart, BookOpen, Layers, ShieldCheck } from 'lucide-react';
+import { Sparkles, Flame, Gem, Heart, BookOpen, Layers, LogOut } from 'lucide-react';
 
 interface NavbarProps {
   profile: StudentProfile;
   selectedGrade: GradeLevel;
   onGradeChange: (grade: GradeLevel) => void;
   onOpenDesignSpecs: () => void;
+  onLogout: () => void;
+  isGradeLocked?: boolean;
 }
 
 export const Navbar: React.FC<NavbarProps> = ({
@@ -14,6 +16,8 @@ export const Navbar: React.FC<NavbarProps> = ({
   selectedGrade,
   onGradeChange,
   onOpenDesignSpecs,
+  onLogout,
+  isGradeLocked = false,
 }) => {
   const xpPercent = Math.min(100, Math.round((profile.todayEarnedXp / profile.dailyGoalXp) * 100));
 
@@ -45,18 +49,19 @@ export const Navbar: React.FC<NavbarProps> = ({
         </div>
 
         {/* Grade Selector */}
-        <div className="flex items-center gap-1.5 bg-slate-900/80 border border-slate-800 rounded-xl p-1">
-          <BookOpen className="h-3.5 w-3.5 text-purple-400 ml-1 hidden md:block" />
+        <div className={`flex items-center gap-1.5 rounded-xl border p-1 ${isGradeLocked ? 'border-slate-700 bg-slate-800/50 opacity-70' : 'border-slate-800 bg-slate-900/80'}`}>
+          <BookOpen className="ml-1 hidden h-3.5 w-3.5 text-purple-400 md:block" />
           {(['Lớp 6', 'Lớp 7', 'Lớp 8', 'Lớp 9'] as GradeLevel[]).map((g) => (
             <button
               key={g}
               id={`grade-btn-${g.replace(/\s+/g, '').toLowerCase()}`}
+              disabled={isGradeLocked}
               onClick={() => onGradeChange(g)}
-              className={`px-2.5 py-1 text-xs font-semibold rounded-lg transition-all ${
+              className={`rounded-lg px-2.5 py-1 text-xs font-semibold transition-all ${
                 selectedGrade === g
                   ? 'bg-gradient-to-r from-purple-600 to-indigo-600 text-white shadow-md shadow-purple-600/30'
                   : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800/60'
-              }`}
+              } ${isGradeLocked ? 'cursor-not-allowed' : ''}`}
             >
               {g}
             </button>
@@ -126,6 +131,16 @@ export const Navbar: React.FC<NavbarProps> = ({
             <Layers className="h-3.5 w-3.5 text-cyan-300" />
             <span className="hidden md:inline">Hồ sơ thiết kế EdTech</span>
             <span className="md:hidden">Hồ sơ</span>
+          </button>
+
+          <button
+            type="button"
+            onClick={onLogout}
+            className="flex items-center gap-1.5 rounded-xl border border-rose-500/30 bg-rose-950/40 px-2.5 py-1.5 text-xs font-semibold text-rose-200 transition hover:border-rose-400/60 hover:bg-rose-900/60"
+            title="Đăng xuất"
+          >
+            <LogOut className="h-3.5 w-3.5" />
+            <span className="hidden md:inline">Đăng xuất</span>
           </button>
         </div>
       </div>
