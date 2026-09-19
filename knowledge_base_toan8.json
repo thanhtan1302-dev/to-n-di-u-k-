@@ -1,0 +1,226 @@
+{
+  "mon_hoc": "Toán",
+  "lop": "8",
+  "chuong_trinh": "GDPT 2018",
+  "nguon_tai_lieu": [
+    "Bộ Giáo dục và Đào tạo Việt Nam - Chương trình GDPT 2018",
+    "Bộ sách giáo khoa Kết nối tri thức với cuộc sống"
+  ],
+  "chuyen_de": [
+    {
+      "chuyen_de": "Phép nhân và phép chia đa thức",
+      "mo_ta": "Học sinh làm quen với các phép biến đổi đơn giản của đa thức, khái niệm hằng đẳng thức đáng nhớ và áp dụng vào rút gọn biểu thức.",
+      "tu_khoa": [
+        "đa thức",
+        "hạng tử",
+        "đơn thức",
+        "nhân đơn thức",
+        "nhân đa thức",
+        "chia đa thức",
+        "hằng đẳng thức"
+      ],
+      "dang_bai_tap": [
+        "Thu gọn đa thức",
+        "Nhân đơn thức với đa thức",
+        "Nhân đa thức với đa thức",
+        "Rút gọn biểu thức",
+        "Phân tích đa thức thành nhân tử"
+      ],
+      "cong_thuc": [
+        "(a + b)^2 = a^2 + 2ab + b^2",
+        "(a - b)^2 = a^2 - 2ab + b^2",
+        "a^2 - b^2 = (a - b)(a + b)"
+      ]
+    },
+    {
+      "chuyen_de": "Phân thức đại số",
+      "mo_ta": "Giải thích khái niệm phân thức đại số, rút gọn, quy đồng mẫu thức, cộng trừ nhân chia phân thức và tìm điều kiện xác định.",
+      "tu_khoa": [
+        "phân thức đại số",
+        "tử thức",
+        "mẫu thức",
+        "rút gọn phân thức",
+        "quy đồng mẫu thức",
+        "điều kiện xác định",
+        "cộng phân thức",
+        "trừ phân thức",
+        "nhân phân thức",
+        "chia phân thức"
+      ],
+      "dang_bai_tap": [
+        "Rút gọn phân thức",
+        "Tìm điều kiện xác định của phân thức",
+        "Cộng, trừ phân thức",
+        "Nhân, chia phân thức",
+        "Giải phương trình chứa phân thức"
+      ],
+      "cong_thuc": [
+        "a/b = (a.k)/(b.k)",
+        "a/b + c/d = (ad + bc)/(bd)",
+        "(a/b) x (c/d) = (ac)/(bd)",
+        "(a/b) : (c/d) = (ad)/(bc)"
+      ]
+    },
+    {
+      "chuyen_de": "Phương trình bậc nhất một ẩn",
+      "mo_ta": "Học cách biến đổi tương đương phương trình, giải phương trình bậc nhất, chuyển vế đổi dấu và xét nghiệm của phương trình.",
+      "tu_khoa": [
+        "phương trình",
+        "ẩn số",
+        "bậc nhất một ẩn",
+        "hai vế của phương trình",
+        "biến đổi tương đương",
+        "nghiệm của phương trình"
+      ],
+      "dang_bai_tap": [
+        "Giải phương trình bậc nhất một ẩn",
+        "Tìm x trong phương trình có phân thức",
+        "Giải bài toán bằng cách lập phương trình",
+        "Kiểm tra nghiệm"
+      ],
+      "cong_thuc": [
+        "ax + b = 0 ⇒ x = -b/a (a ≠ 0)",
+        "Chuyển vế đổi dấu",
+        "Nhân cả hai vế với cùng một số khác 0"
+      ]
+    },
+    {
+      "chuyen_de": "Bất phương trình bậc nhất một ẩn",
+      "mo_ta": "Làm quen với bất phương trình, các quy tắc biến đổi, biểu diễn nghiệm trên trục số và ứng dụng giải toán thực tế.",
+      "tu_khoa": [
+        "bất phương trình",
+        "ẩn số",
+        "biểu diễn nghiệm",
+        "trục số",
+        "chuyển vế",
+        "nhân chia với số âm"
+      ],
+      "dang_bai_tap": [
+        "Giải bất phương trình đơn giản",
+        "Biểu diễn tập nghiệm trên trục số",
+        "Giải bất phương trình chứa phân số",
+        "Bài toán thực tế về điều kiện"
+      ],
+      "cong_thuc": [
+        "a < b ⇒ a + c < b + c",
+        "a < b và c > 0 ⇒ ac < bc",
+        "a < b và c < 0 ⇒ ac > bc"
+      ]
+    },
+    {
+      "chuyen_de": "Tứ giác",
+      "mo_ta": "Nghiên cứu các loại tứ giác, tính chất tổng các góc trong tứ giác, hình thang, hình bình hành, hình chữ nhật, hình thoi, hình vuông.",
+      "tu_khoa": [
+        "tứ giác",
+        "góc trong tứ giác",
+        "hình thang",
+        "hình bình hành",
+        "hình chữ nhật",
+        "hình thoi",
+        "hình vuông",
+        "đường chéo"
+      ],
+      "dang_bai_tap": [
+        "Tính góc trong tứ giác",
+        "Chứng minh tứ giác là hình bình hành",
+        "Tính chu vi, diện tích hình thang, hình bình hành",
+        "Xác định loại tứ giác"
+      ],
+      "cong_thuc": [
+        "Tổng bốn góc của tứ giác bằng 360°",
+        "Diện tích hình thang: S = (a+b)h/2",
+        "Diện tích hình bình hành: S = a h"
+      ]
+    },
+    {
+      "chuyen_de": "Đa giác, diện tích đa giác",
+      "mo_ta": "Nhận biết đa giác, phân loại đa giác, tính diện tích các hình phẳng đơn giản trong chương trình THCS.",
+      "tu_khoa": [
+        "đa giác",
+        "đa giác đều",
+        "đường chéo",
+        "diện tích đa giác",
+        "hình phẳng"
+      ],
+      "dang_bai_tap": [
+        "Tính số đường chéo",
+        "Phân loại đa giác",
+        "Tính diện tích hình ghép",
+        "So sánh diện tích"
+      ],
+      "cong_thuc": [
+        "Diện tích hình vuông: S = a^2",
+        "Diện tích hình chữ nhật: S = a b",
+        "Diện tích tam giác: S = (a h)/2"
+      ]
+    },
+    {
+      "chuyen_de": "Tam giác đồng dạng",
+      "mo_ta": "Học về các trường hợp đồng dạng của tam giác, tỷ số đồng dạng và ứng dụng để tính độ dài đoạn thẳng, chứng minh hình học.",
+      "tu_khoa": [
+        "tam giác đồng dạng",
+        "trường hợp đồng dạng",
+        "tỷ số đồng dạng",
+        "định lý Talet",
+        "đường thẳng song song"
+      ],
+      "dang_bai_tap": [
+        "Chứng minh hai tam giác đồng dạng",
+        "Tìm tỉ số đồng dạng",
+        "Tính độ dài đoạn thẳng",
+        "Áp dụng định lý Talet"
+      ],
+      "cong_thuc": [
+        "Nếu hai tam giác đồng dạng thì tỉ số các cạnh tương ứng bằng nhau",
+        "Định lý Talet: Nếu a // b thì các cặp đoạn thẳng tương ứng tỉ lệ"
+      ]
+    },
+    {
+      "chuyen_de": "Hàm số bậc nhất",
+      "mo_ta": "Tìm hiểu hàm số bậc nhất, đồ thị đường thẳng, tính đồng biến và nghịch biến, và giải bài toán về hàm số đơn giản.",
+      "tu_khoa": [
+        "hàm số",
+        "hàm số bậc nhất",
+        "đồ thị hàm số",
+        "hệ số góc",
+        "đồng biến",
+        "nghịch biến",
+        "đường thẳng"
+      ],
+      "dang_bai_tap": [
+        "Tính giá trị của hàm số",
+        "Vẽ đồ thị y = ax + b",
+        "Xác định tính đồng biến, nghịch biến",
+        "Tìm giao điểm của hai đường thẳng"
+      ],
+      "cong_thuc": [
+        "y = ax + b (a ≠ 0)",
+        "Nếu a > 0 thì hàm số đồng biến",
+        "Nếu a < 0 thì hàm số nghịch biến"
+      ]
+    },
+    {
+      "chuyen_de": "Đường tròn",
+      "mo_ta": "Hiểu về tâm, bán kính, dây cung, tiếp tuyến của đường tròn, và các góc liên quan đến đường tròn.",
+      "tu_khoa": [
+        "đường tròn",
+        "tâm",
+        "bán kính",
+        "dây cung",
+        "tiếp tuyến",
+        "góc nội tiếp",
+        "góc tâm"
+      ],
+      "dang_bai_tap": [
+        "Xác định tâm, bán kính, dây cung",
+        "Tính góc ở tâm, góc nội tiếp",
+        "Vẽ tiếp tuyến",
+        "Bài toán liên quan đến đường tròn"
+      ],
+      "cong_thuc": [
+        "Chu vi đường tròn: C = 2πR",
+        "Diện tích đường tròn: S = πR^2"
+      ]
+    }
+  ]
+}

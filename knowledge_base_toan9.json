@@ -1,0 +1,185 @@
+{
+  "mon_hoc": "Toán",
+  "lop": "9",
+  "chuong_trinh": "GDPT 2018",
+  "nguon_tai_lieu": [
+    "Bộ Giáo dục và Đào tạo Việt Nam - Chương trình GDPT 2018",
+    "Bộ sách giáo khoa Kết nối tri thức với cuộc sống"
+  ],
+  "chuyen_de": [
+    {
+      "chuyen_de": "Căn bậc hai, căn bậc ba",
+      "mo_ta": "Học khái niệm căn bậc hai, căn bậc ba, điều kiện xác định, phép biến đổi đơn giản và giải phương trình chứa căn ở mức đơn giản.",
+      "tu_khoa": [
+        "căn bậc hai",
+        "căn bậc ba",
+        "bình phương",
+        "điều kiện xác định",
+        "rút gọn căn",
+        "so sánh căn",
+        "khử mẫu"
+      ],
+      "dang_bai_tap": [
+        "Tính giá trị của căn bậc hai",
+        "Rút gọn biểu thức chứa căn",
+        "So sánh căn",
+        "Giải phương trình chứa căn đơn giản",
+        "Bài toán thực tế về độ dài"
+      ],
+      "cong_thuc": [
+        "Nếu a ≥ 0 thì √a^2 = a",
+        "(√a)^2 = a (a ≥ 0)",
+        "√(ab) = √a . √b (a, b ≥ 0)",
+        "√(a/b) = √a / √b (a ≥ 0, b > 0)"
+      ]
+    },
+    {
+      "chuyen_de": "Hàm số bậc nhất và đồ thị",
+      "mo_ta": "Khái niệm hàm số bậc nhất, cách xác định hệ số góc, vẽ đường thẳng và giải bài toán tương giao giữa hai đường thẳng.",
+      "tu_khoa": [
+        "hàm số bậc nhất",
+        "đồ thị hàm số",
+        "hệ số góc",
+        "giao điểm",
+        "đường thẳng",
+        "đồng biến",
+        "nghịch biến"
+      ],
+      "dang_bai_tap": [
+        "Tính giá trị hàm số",
+        "Vẽ đồ thị y = ax + b",
+        "Xác định hệ số góc",
+        "Tìm giao điểm của hai đường thẳng",
+        "Giải bài toán bằng đồ thị"
+      ],
+      "cong_thuc": [
+        "y = ax + b",
+        "Nếu a > 0 thì hàm số đồng biến",
+        "Nếu a < 0 thì hàm số nghịch biến",
+        "Giao điểm của hai đường thẳng là nghiệm của hệ phương trình"
+      ]
+    },
+    {
+      "chuyen_de": "Hệ hai phương trình bậc nhất hai ẩn",
+      "mo_ta": "Giải hệ phương trình bằng phương pháp thế, cộng đại số và minh họa hình học. Ứng dụng trong giải bài toán thực tế.",
+      "tu_khoa": [
+        "hệ phương trình",
+        "hai ẩn",
+        "phương pháp thế",
+        "phương pháp cộng đại số",
+        "nghiệm của hệ",
+        "giải bài toán bằng hệ phương trình"
+      ],
+      "dang_bai_tap": [
+        "Giải hệ phương trình bằng phương pháp thế",
+        "Giải hệ phương trình bằng phương pháp cộng",
+        "Biểu diễn nghiệm trên mặt phẳng tọa độ",
+        "Giải bài toán thực tế bằng cách lập hệ phương trình"
+      ],
+      "cong_thuc": [
+        "ax + by = c",
+        "a'x + b'y = c'",
+        "Nghiệm của hệ là cặp số (x, y) thỏa cả hai phương trình"
+      ]
+    },
+    {
+      "chuyen_de": "Hệ thức lượng trong tam giác vuông",
+      "mo_ta": "Nghiên cứu các mối quan hệ giữa các cạnh và góc trong tam giác vuông, sử dụng các tỉ số lượng giác cơ bản và định lý Pythagore.",
+      "tu_khoa": [
+        "tam giác vuông",
+        "định lý Pytago",
+        "hệ thức lượng",
+        "sin",
+        "cos",
+        "tan",
+        "góc nhọn",
+        "cạnh huyền",
+        "cạnh góc vuông"
+      ],
+      "dang_bai_tap": [
+        "Tính độ dài cạnh trong tam giác vuông",
+        "Tính góc nhọn trong tam giác vuông",
+        "Dùng tỉ số lượng giác để giải bài toán thực tế",
+        "Chứng minh định lý Pytago"
+      ],
+      "cong_thuc": [
+        "a^2 + b^2 = c^2",
+        "sin α = cạnh đối / cạnh huyền",
+        "cos α = cạnh kề / cạnh huyền",
+        "tan α = cạnh đối / cạnh kề"
+      ]
+    },
+    {
+      "chuyen_de": "Đường tròn",
+      "mo_ta": "Nghiên cứu các mối liên hệ giữa góc, dây, tiếp tuyến, và các tứ giác nội tiếp trong đường tròn.",
+      "tu_khoa": [
+        "đường tròn",
+        "góc nội tiếp",
+        "góc tâm",
+        "dây cung",
+        "tiếp tuyến",
+        "tứ giác nội tiếp",
+        "đường kính"
+      ],
+      "dang_bai_tap": [
+        "Tính số đo góc nội tiếp, góc tâm",
+        "Chứng minh tứ giác nội tiếp",
+        "Tìm tiếp tuyến của đường tròn",
+        "Bài toán hình học với đường tròn"
+      ],
+      "cong_thuc": [
+        "Góc nội tiếp bằng nửa góc ở tâm cùng chắn một cung",
+        "Tổng hai góc đối của tứ giác nội tiếp bằng 180°"
+      ]
+    },
+    {
+      "chuyen_de": "Hình trụ, hình nón, hình cầu",
+      "mo_ta": "Làm quen với các khối hình học không gian cơ bản, cách tính diện tích xung quanh, diện tích toàn phần và thể tích.",
+      "tu_khoa": [
+        "hình trụ",
+        "hình nón",
+        "hình cầu",
+        "bán kính",
+        "chiều cao",
+        "diện tích xung quanh",
+        "thể tích"
+      ],
+      "dang_bai_tap": [
+        "Tính diện tích xung quanh hình trụ",
+        "Tính thể tích hình nón",
+        "Tính diện tích mặt cầu",
+        "Tính thể tích hình cầu"
+      ],
+      "cong_thuc": [
+        "Diện tích xung quanh hình trụ: Sxq = 2πRh",
+        "Thể tích hình trụ: V = πR^2h",
+        "Thể tích hình nón: V = (1/3)πR^2h",
+        "Diện tích mặt cầu: S = 4πR^2",
+        "Thể tích hình cầu: V = (4/3)πR^3"
+      ]
+    },
+    {
+      "chuyen_de": "Xác suất và thống kê",
+      "mo_ta": "Tổng hợp kỹ năng đọc dữ liệu, biểu diễn dữ liệu gồm khoảng, mốt, số trung bình cộng và xác suất của biến cố trong các tình huống đơn giản.",
+      "tu_khoa": [
+        "số liệu",
+        "bảng tần số",
+        "trung bình cộng",
+        "mốt",
+        "biểu đồ",
+        "xác suất",
+        "biến cố"
+      ],
+      "dang_bai_tap": [
+        "Lập bảng tần số",
+        "Tính trung bình cộng",
+        "Đọc và phân tích biểu đồ",
+        "Tính xác suất của biến cố"
+      ],
+      "cong_thuc": [
+        "Trung bình cộng = Tổng số liệu / Số lượng giá trị",
+        "P(A) = Số kết quả thuận lợi / Tổng số kết quả có thể xảy ra"
+      ]
+    }
+  ]
+}

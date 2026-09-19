@@ -1,0 +1,6 @@
+{
+  "name": "Toán Diệu Kỳ",
+  "description": "Nền tảng học Toán THCS thông minh kết hợp Gamification và Trợ lý giải toán AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

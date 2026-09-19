@@ -1,0 +1,213 @@
+{
+  "mon_hoc": "Toán",
+  "lop": "7",
+  "chuong_trinh": "GDPT 2018",
+  "nguon_tai_lieu": [
+    "Bộ Giáo dục và Đào tạo Việt Nam - Chương trình GDPT 2018",
+    "Bộ sách giáo khoa Kết nối tri thức với cuộc sống"
+  ],
+  "chuyen_de": [
+    {
+      "chuyen_de": "Số hữu tỉ",
+      "mo_ta": "Học sinh làm quen với số hữu tỉ, biểu diễn trên trục số, so sánh, thực hiện các phép tính với số hữu tỉ và ứng dụng trong đời sống.",
+      "tu_khoa": [
+        "số hữu tỉ",
+        "trục số",
+        "số âm",
+        "số dương",
+        "so sánh số hữu tỉ",
+        "cộng số hữu tỉ",
+        "trừ số hữu tỉ",
+        "nhân số hữu tỉ",
+        "chia số hữu tỉ",
+        "giá trị tuyệt đối"
+      ],
+      "dang_bai_tap": [
+        "Biểu diễn số hữu tỉ trên trục số",
+        "So sánh hai số hữu tỉ",
+        "Thực hiện phép tính với số hữu tỉ",
+        "Tìm x trong phương trình đơn giản",
+        "Bài toán thực tế về số âm, số dương"
+      ],
+      "cong_thuc": [
+        "a/b + c/d = (ad + bc)/(bd)",
+        "a/b - c/d = (ad - bc)/(bd)",
+        "(a/b) x (c/d) = (ac)/(bd)",
+        "(a/b) : (c/d) = (a/b) x (d/c)",
+        "|x| = x nếu x >= 0; |x| = -x nếu x < 0"
+      ]
+    },
+    {
+      "chuyen_de": "Lũy thừa của một số hữu tỉ",
+      "mo_ta": "Nghiên cứu lũy thừa với số mũ tự nhiên, các quy tắc tính toán, đặc biệt là lũy thừa của tích, thương và số mũ chẵn, lẻ.",
+      "tu_khoa": [
+        "lũy thừa",
+        "số mũ",
+        "tích",
+        "thương",
+        "lũy thừa của lũy thừa",
+        "số mũ tự nhiên"
+      ],
+      "dang_bai_tap": [
+        "Viết tích dưới dạng lũy thừa",
+        "Tính giá trị lũy thừa",
+        "Rút gọn biểu thức chứa lũy thừa",
+        "So sánh hai lũy thừa"
+      ],
+      "cong_thuc": [
+        "x^m x x^n = x^(m+n)",
+        "x^m / x^n = x^(m-n) (x ≠ 0)",
+        "(x^m)^n = x^(mn)",
+        "(xy)^n = x^n y^n",
+        "(x/y)^n = x^n/y^n (y ≠ 0)"
+      ]
+    },
+    {
+      "chuyen_de": "Tỉ lệ thức và đại lượng tỉ lệ",
+      "mo_ta": "Tiếp cận khái niệm tỉ lệ thức, tính chất của dãy tỉ số bằng nhau, đại lượng tỉ lệ thuận và tỉ lệ nghịch, áp dụng trong bài toán thực tế.",
+      "tu_khoa": [
+        "tỉ lệ thức",
+        "tính chất của tỉ lệ thức",
+        "đại lượng tỉ lệ thuận",
+        "đại lượng tỉ lệ nghịch",
+        "dãy tỉ số bằng nhau",
+        "đại lượng"
+      ],
+      "dang_bai_tap": [
+        "Lập tỉ lệ thức từ các số cho trước",
+        "Tìm số chưa biết trong tỉ lệ thức",
+        "Tính giá trị của hai đại lượng tỉ lệ thuận",
+        "Tính giá trị của hai đại lượng tỉ lệ nghịch",
+        "Bài toán thực tế về tỷ lệ"
+      ],
+      "cong_thuc": [
+        "Nếu a/b = c/d thì ad = bc",
+        "Nếu y = kx thì y tỉ lệ thuận với x",
+        "Nếu y = k/x thì y tỉ lệ nghịch với x"
+      ]
+    },
+    {
+      "chuyen_de": "Biểu thức đại số",
+      "mo_ta": "Giải thích khái niệm đơn thức, đa thức, cách cộng, trừ, nhân đơn thức, và tìm giá trị của biểu thức đại số.",
+      "tu_khoa": [
+        "biểu thức đại số",
+        "đơn thức",
+        "đa thức",
+        "hệ số",
+        "biến số",
+        "giá trị biểu thức",
+        "cộng trừ đơn thức đồng dạng",
+        "nhân đơn thức"
+      ],
+      "dang_bai_tap": [
+        "Viết biểu thức đại số theo lời văn",
+        "Tính giá trị của biểu thức đại số",
+        "Thu gọn đơn thức",
+        "Cộng, trừ đơn thức đồng dạng",
+        "Nhân đơn thức với đơn thức"
+      ],
+      "cong_thuc": [
+        "x + x = 2x",
+        "3x + 5x = 8x",
+        "(ax^m)(bx^n) = abx^(m+n)",
+        "Giá trị biểu thức = thay biến bằng giá trị cho trước"
+      ]
+    },
+    {
+      "chuyen_de": "Góc và đường thẳng song song",
+      "mo_ta": "Nghiên cứu các loại góc, góc kề bù, góc đối đỉnh, đường thẳng song song và các quan hệ góc khi cắt bởi một đường thẳng.",
+      "tu_khoa": [
+        "góc",
+        "góc nhọn",
+        "góc vuông",
+        "góc tù",
+        "góc bẹt",
+        "góc kề bù",
+        "góc đối đỉnh",
+        "đường thẳng song song",
+        "đường thẳng cắt nhau"
+      ],
+      "dang_bai_tap": [
+        "Đo và suy luận số đo góc",
+        "Tìm góc kề bù, góc đối đỉnh",
+        "Xác định hai đường thẳng song song",
+        "Chứng minh tính chất góc"
+      ],
+      "cong_thuc": [
+        "Hai góc kề bù có tổng bằng 180°",
+        "Hai góc đối đỉnh thì bằng nhau",
+        "Nếu hai đường thẳng song song cắt bởi một đường thẳng thì các góc so le trong bằng nhau"
+      ]
+    },
+    {
+      "chuyen_de": "Tam giác",
+      "mo_ta": "Ôn tập tổng quan về tam giác, các trường hợp bằng nhau, đường trung tuyến, đường phân giác, đường cao, đường trung trực, tính chất tổng ba góc của tam giác.",
+      "tu_khoa": [
+        "tam giác",
+        "tổng ba góc",
+        "tam giác đều",
+        "tam giác cân",
+        "tam giác vuông",
+        "trường hợp bằng nhau",
+        "đường trung tuyến",
+        "đường cao",
+        "đường phân giác",
+        "đường trung trực"
+      ],
+      "dang_bai_tap": [
+        "Tính số đo góc trong tam giác",
+        "Chứng minh tam giác cân, tam giác đều",
+        "Xác định các đường đặc biệt trong tam giác",
+        "Chứng minh hai tam giác bằng nhau"
+      ],
+      "cong_thuc": [
+        "Tổng ba góc trong một tam giác bằng 180°",
+        "Trong tam giác cân, hai góc ở đáy bằng nhau",
+        "Trong tam giác đều, ba góc bằng 60°"
+      ]
+    },
+    {
+      "chuyen_de": "Thống kê",
+      "mo_ta": "Làm quen với số liệu thống kê, bảng tần số, biểu đồ, trung bình cộng và cách nhận xét dữ liệu.",
+      "tu_khoa": [
+        "thống kê",
+        "bảng số liệu",
+        "tần số",
+        "trung bình cộng",
+        "biểu đồ cột",
+        "biểu đồ đoạn thẳng",
+        "mốt"
+      ],
+      "dang_bai_tap": [
+        "Đọc và lập bảng số liệu",
+        "Tính số trung bình cộng",
+        "Biểu diễn dữ liệu bằng biểu đồ",
+        "Nhận xét kết quả thống kê"
+      ],
+      "cong_thuc": [
+        "Trung bình cộng = Tổng giá trị / Số lượng giá trị",
+        "Tần số là số lần xuất hiện của một giá trị"
+      ]
+    },
+    {
+      "chuyen_de": "Xác suất",
+      "mo_ta": "Hiểu khái niệm xác suất của biến cố trong các tình huống đơn giản và tính toán xác suất theo mô hình thuận tiện.",
+      "tu_khoa": [
+        "xác suất",
+        "biến cố",
+        "biến cố chắc chắn",
+        "biến cố không thể",
+        "mẫu không gian",
+        "phép thử"
+      ],
+      "dang_bai_tap": [
+        "Tính xác suất của một biến cố đơn giản",
+        "Xác định biến cố chắc chắn hoặc không thể",
+        "Bài toán thực tế về tung xúc xắc, rút thẻ"
+      ],
+      "cong_thuc": [
+        "P(A) = Số kết quả thuận lợi / Tổng số kết quả có thể xảy ra"
+      ]
+    }
+  ]
+}

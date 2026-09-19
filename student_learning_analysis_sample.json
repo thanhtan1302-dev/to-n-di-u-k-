@@ -1,0 +1,195 @@
+{
+  "student_id": "STU001",
+  "student_name": "Minh Khôi",
+  "grade": "Lớp 8",
+  "study_frequency": "2-3 buổi/tuần",
+  "time_per_session_minutes": 35,
+  "topics": [
+    {
+      "topic": "Số hữu tỉ",
+      "correct": 18,
+      "wrong": 4,
+      "timeMinutes": 120,
+      "studyFrequency": "3 buổi/tuần"
+    },
+    {
+      "topic": "Phân số",
+      "correct": 15,
+      "wrong": 6,
+      "timeMinutes": 150,
+      "studyFrequency": "2 buổi/tuần"
+    },
+    {
+      "topic": "Biểu thức đại số",
+      "correct": 12,
+      "wrong": 8,
+      "timeMinutes": 180,
+      "studyFrequency": "2 buổi/tuần"
+    },
+    {
+      "topic": "Hình học cơ bản",
+      "correct": 13,
+      "wrong": 7,
+      "timeMinutes": 170,
+      "studyFrequency": "2 buổi/tuần"
+    },
+    {
+      "topic": "Thống kê",
+      "correct": 16,
+      "wrong": 5,
+      "timeMinutes": 140,
+      "studyFrequency": "3 buổi/tuần"
+    }
+  ],
+  "result": {
+    "student_profile": {
+      "grade": "Lớp 8",
+      "study_frequency": "2-3 buổi/tuần",
+      "time_per_session_minutes": 35,
+      "assessment_scope": [
+        "Số hữu tỉ",
+        "Phân số",
+        "Biểu thức đại số",
+        "Hình học cơ bản",
+        "Thống kê"
+      ]
+    },
+    "analysis": {
+      "strengths": [
+        "Học sinh có nền tảng khá ổn ở các dạng bài cơ bản.",
+        "Tần suất học tương đối đều, thuận lợi cho việc ôn tập liên tục."
+      ],
+      "weaknesses": [
+        "Một số chuyên đề còn yếu, cần tập trung luyện tập nhiều hơn ở các dạng bài có nhiều bước."
+      ],
+      "topic_mastery": [
+        {
+          "topic": "Số hữu tỉ",
+          "correct_answers": 18,
+          "wrong_answers": 4,
+          "time_minutes": 120,
+          "accuracy_rate": 0.82,
+          "mastery_level": "Tốt",
+          "evaluation": "Nắm chắc kiến thức cơ bản và làm bài tương đối ổn định."
+        },
+        {
+          "topic": "Phân số",
+          "correct_answers": 15,
+          "wrong_answers": 6,
+          "time_minutes": 150,
+          "accuracy_rate": 0.71,
+          "mastery_level": "Khá",
+          "evaluation": "Đã có nền tảng tốt, cần luyện tập thêm các dạng bài nâng cao."
+        },
+        {
+          "topic": "Biểu thức đại số",
+          "correct_answers": 12,
+          "wrong_answers": 8,
+          "time_minutes": 180,
+          "accuracy_rate": 0.6,
+          "mastery_level": "Cần cải thiện",
+          "evaluation": "Cần củng cố kiến thức nền và làm nhiều bài tập dạng cơ bản hơn."
+        },
+        {
+          "topic": "Hình học cơ bản",
+          "correct_answers": 13,
+          "wrong_answers": 7,
+          "time_minutes": 170,
+          "accuracy_rate": 0.65,
+          "mastery_level": "Trung bình",
+          "evaluation": "Cần ôn lại định nghĩa, tính chất và cách vẽ sơ đồ."
+        }
+      ],
+      "short_comment": "Học sinh có nền tảng tốt ở các dạng bài cơ bản, nhưng cần tập trung hơn ở các dạng bài yêu cầu suy luận dài hơn và biến đổi nhiều bước."
+    },
+    "recommended_next_lessons": [
+      {
+        "lesson": "Ôn tập Biểu thức đại số",
+        "reason": "Mức độ thành thạo đang ở mức cần cải thiện, cần luyện tập nhiều hơn ở dạng biến đổi và rút gọn.",
+        "priority": "Cao"
+      },
+      {
+        "lesson": "Ôn tập Hình học cơ bản",
+        "reason": "Cần củng cố định nghĩa, tính chất và cách suy luận hình học từng bước.",
+        "priority": "Cao"
+      },
+      {
+        "lesson": "Rút gọn và quy đồng phân số",
+        "reason": "Giúp cải thiện kỹ năng xử lý bài toán có nhiều bước và giảm sai sót ở dạng phân số.",
+        "priority": "Trung bình"
+      }
+    ],
+    "seven_day_plan": [
+      {
+        "day": 1,
+        "focus": "Ôn tập biểu thức đại số",
+        "activities": [
+          "Làm 10 câu rút gọn biểu thức",
+          "Chữa bài sai",
+          "Ghi lại các lỗi thường gặp"
+        ],
+        "goal": "Củng cố nền tảng"
+      },
+      {
+        "day": 2,
+        "focus": "Hình học cơ bản",
+        "activities": [
+          "Ôn định nghĩa điểm, đoạn thẳng, góc",
+          "Làm bài nhận dạng hình",
+          "Vẽ sơ đồ minh họa"
+        ],
+        "goal": "Tăng độ chính xác"
+      },
+      {
+        "day": 3,
+        "focus": "Luyện đề phân số",
+        "activities": [
+          "Làm 8 câu quy đồng mẫu số",
+          "Làm 8 câu rút gọn phân số",
+          "Kiểm tra đáp án"
+        ],
+        "goal": "Cải thiện sự chắc chắn"
+      },
+      {
+        "day": 4,
+        "focus": "Luyện tập tổng hợp",
+        "activities": [
+          "Làm 15 câu đề ngắn",
+          "Phân loại câu sai",
+          "Ghi chú cách làm đúng"
+        ],
+        "goal": "Tăng tốc độ làm bài"
+      },
+      {
+        "day": 5,
+        "focus": "Bài toán thực tế",
+        "activities": [
+          "Giải 5 bài toán có lời văn",
+          "Viết mô hình toán học",
+          "Kiểm tra điều kiện đáp số"
+        ],
+        "goal": "Rèn kỹ năng suy luận"
+      },
+      {
+        "day": 6,
+        "focus": "Kiểm tra mini",
+        "activities": [
+          "Làm bài 20 phút",
+          "Xem lại các câu sai",
+          "Viết lại cách giải đúng"
+        ],
+        "goal": "Đánh giá tiến bộ"
+      },
+      {
+        "day": 7,
+        "focus": "Củng cố và lập mục tiêu tuần mới",
+        "activities": [
+          "Ôn 3 chuyên đề yếu nhất",
+          "Lập kế hoạch học tiếp theo",
+          "Duy trì thói quen học đều"
+        ],
+        "goal": "Giữ động lực học tập"
+      }
+    ]
+  }
+}
