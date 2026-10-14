@@ -1,0 +1,9 @@
+{
+  "name": "vutrutoanhoc-backend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "@vercel/node": "^5.0.0"
+  }
+}
